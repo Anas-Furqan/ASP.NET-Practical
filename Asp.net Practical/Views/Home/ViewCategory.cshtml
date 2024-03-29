@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Category>
+
+
+<div class="row">
+    <div class="col-md-6">
+        <h1 class="text-success">Categories List</h1>
+    </div>
+    <div class="col-md-6">
+        <a asp-action="CreateCategory" asp-controller="Home" class="btn btn-info">Add Cateogry</a>
+    </div>
+</div>
+<table class="table table-bordered" style="width:100%">
+
+    <thead>
+        <tr>
+            <th>Category Id</th>
+            <th>Category Name</th>
+            <th>Category Added Time</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td>
+                    @i.Cat_Id
+                </td>
+                <td>
+                    @i.Cat_Name
+                </td>
+                <td>
+                    @i.Cat_Added
+                </td>
+                <td>
+                    <a asp-action="UpdateCategory" asp-controller="Home" asp-route-id="@i.Cat_Id" class="btn btn-outline-success">Update</a>
+                    <a asp-action="DeleteCategory" asp-controller="Home" asp-route-id="@i.Cat_Id" class="btn btn-outline-danger">Delete</a>
+                    <a asp-action="DetailsCategory" asp-controller="Home" asp-route-id="@i.Cat_Id" class="btn btn-outline-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

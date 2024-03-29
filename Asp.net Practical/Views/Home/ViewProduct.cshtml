@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Product>
+
+
+<div class="row">
+    <div class="col-md-6">
+        <h1 class="text-success">Categories List</h1>
+    </div>
+    <div class="col-md-6">
+        <a asp-action="CreateProduct" asp-controller="Home" class="btn btn-info">Add Product</a>
+    </div>
+</div>
+<table class="table table-bordered" style="width:100%">
+
+    <thead>
+        <tr>
+            <th>Category Id</th>
+            <th>Category Name</th>
+            <th>Product Description</th>
+            <th>Product Image</th>
+            <th>Product Price</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td>
+                    @i.Prod_Id
+                </td>
+                <td>
+                    @i.Prod_Name
+                </td>
+                <td>
+                    @i.Prod_Description
+                </td>
+                <td>
+                    <img src="@i.ImageURL" />
+                </td>
+                <td>
+                    @i.Prod_Price
+                </td>
+                <td>
+                    <a asp-action="UpdateProduct" asp-controller="Home" asp-route-id="@i.Prod_Id" class="btn btn-outline-success">Update</a>
+                    <a asp-action="DeleteProduct" asp-controller="Home" asp-route-id="@i.Prod_Id" class="btn btn-outline-danger">Delete</a>
+                    <a asp-action="DetailsProduct" asp-controller="Home" asp-route-id="@i.Prod_Id" class="btn btn-outline-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

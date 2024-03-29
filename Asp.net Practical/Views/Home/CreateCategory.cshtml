@@ -1,0 +1,11 @@
+﻿@model Category
+
+<form method="Post">
+
+    <label asp-for="Cat_Name">Category Name</label>
+    <input asp-for="Cat_Name" type="text" class="form-control" />
+
+    <button class="btn btn-primary" type="submit">Add Category</button>
+    <a asp-action="ViewCategory" asp-controller="Home">Back To List</a>
+
+</form>

@@ -1,0 +1,8 @@
+C:\Users\ABC\Desktop\ASP.NET-Practical\Asp.net Practical\obj\Debug\net8.0\Asp.netPractical.csproj.AssemblyReference.cache
+C:\Users\ABC\Desktop\ASP.NET-Practical\Asp.net Practical\obj\Debug\net8.0\Asp.netPractical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Desktop\ASP.NET-Practical\Asp.net Practical\obj\Debug\net8.0\Asp.netPractical.AssemblyInfoInputs.cache
+C:\Users\ABC\Desktop\ASP.NET-Practical\Asp.net Practical\obj\Debug\net8.0\Asp.netPractical.AssemblyInfo.cs
+C:\Users\ABC\Desktop\ASP.NET-Practical\Asp.net Practical\obj\Debug\net8.0\Asp.netPractical.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\ASP.NET-Practical\Asp.net Practical\obj\Debug\net8.0\Asp.netPractical.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ABC\Desktop\ASP.NET-Practical\Asp.net Practical\obj\Debug\net8.0\Asp.netPractical.RazorAssemblyInfo.cache
+C:\Users\ABC\Desktop\ASP.NET-Practical\Asp.net Practical\obj\Debug\net8.0\Asp.netPractical.RazorAssemblyInfo.cs

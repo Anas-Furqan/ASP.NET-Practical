@@ -1,0 +1,16 @@
+﻿@model Category
+
+
+
+
+<form method="Post">
+
+    <input type="hidden" asp-for="Cat_Id" />
+
+    <label asp-for="Cat_Name">Category Name</label>
+    <input disabled asp-for="Cat_Name" type="text" class="form-control" />
+
+    <button class="btn btn-danger" type="submit">Delete Category</button>
+    <a asp-action="ViewCategory" asp-controller="Home">Back To List</a>
+
+</form>

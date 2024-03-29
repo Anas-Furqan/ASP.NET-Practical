@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABC\\Desktop\\ASP.NET-Practical\\Asp.net Practical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA0E57F-93FE-437A-B452-D56CE35D0EE8}|Asp.net Practical.csproj|c:\\users\\abc\\desktop\\asp.net-practical\\asp.net practical\\views\\home\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA0E57F-93FE-437A-B452-D56CE35D0EE8}|Asp.net Practical.csproj|solutionrelative:views\\home\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA0E57F-93FE-437A-B452-D56CE35D0EE8}|Asp.net Practical.csproj|c:\\users\\abc\\desktop\\asp.net-practical\\asp.net practical\\views\\home\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA0E57F-93FE-437A-B452-D56CE35D0EE8}|Asp.net Practical.csproj|solutionrelative:views\\home\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA0E57F-93FE-437A-B452-D56CE35D0EE8}|Asp.net Practical.csproj|c:\\users\\abc\\desktop\\asp.net-practical\\asp.net practical\\views\\home\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA0E57F-93FE-437A-B452-D56CE35D0EE8}|Asp.net Practical.csproj|solutionrelative:views\\home\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA0E57F-93FE-437A-B452-D56CE35D0EE8}|Asp.net Practical.csproj|c:\\users\\abc\\desktop\\asp.net-practical\\asp.net practical\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA0E57F-93FE-437A-B452-D56CE35D0EE8}|Asp.net Practical.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA0E57F-93FE-437A-B452-D56CE35D0EE8}|Asp.net Practical.csproj|c:\\users\\abc\\desktop\\asp.net-practical\\asp.net practical\\views\\home\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACA0E57F-93FE-437A-B452-D56CE35D0EE8}|Asp.net Practical.csproj|solutionrelative:views\\home\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABC\\Desktop\\ASP.NET-Practical\\Asp.net Practical\\Views\\Home\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\ABC\\Desktop\\ASP.NET-Practical\\Asp.net Practical\\Views\\Home\\CreateProduct.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreateProduct.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T20:21:26.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABC\\Desktop\\ASP.NET-Practical\\Asp.net Practical\\Views\\Home\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DeleteProduct.cshtml",
+              "ToolTip": "C:\\Users\\ABC\\Desktop\\ASP.NET-Practical\\Asp.net Practical\\Views\\Home\\DeleteProduct.cshtml",
+              "RelativeToolTip": "Views\\Home\\DeleteProduct.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T20:20:28.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABC\\Desktop\\ASP.NET-Practical\\Asp.net Practical\\Views\\Home\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\Users\\ABC\\Desktop\\ASP.NET-Practical\\Asp.net Practical\\Views\\Home\\UpdateProduct.cshtml",
+              "RelativeToolTip": "Views\\Home\\UpdateProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T20:20:09.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABC\\Desktop\\ASP.NET-Practical\\Asp.net Practical\\Views\\Home\\ViewProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ViewProduct.cshtml",
+              "ToolTip": "C:\\Users\\ABC\\Desktop\\ASP.NET-Practical\\Asp.net Practical\\Views\\Home\\ViewProduct.cshtml",
+              "RelativeToolTip": "Views\\Home\\ViewProduct.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T20:09:44.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ABC\\Desktop\\ASP.NET-Practical\\Asp.net Practical\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ABC\\Desktop\\ASP.NET-Practical\\Asp.net Practical\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAAKMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:48:26.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

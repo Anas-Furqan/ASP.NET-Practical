@@ -1,0 +1,18 @@
+﻿@model Product
+
+<form method="Post">
+    <input type="hidden" asp-for="Cat_Id" />
+
+    <label asp-for="Prod_Name">Category Name</label>
+    <input asp-for="Prod_Name" type="text" class="form-control" />
+
+    <label asp-for="Prod_Description">Product Description</label>
+    <input asp-for="Prod_Description" type="text" class="form-control" />
+
+    <label asp-for="Prod_Price">Product Price</label>
+    <input asp-for="Prod_Price" type="text" class="form-control" />
+
+    <button class="btn btn-primary" type="submit">Update Product</button>
+    <a asp-action="ViewProduct" asp-controller="Home">Back To List</a>
+
+</form>
